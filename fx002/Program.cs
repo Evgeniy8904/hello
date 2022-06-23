@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("332Hello, World!");
+﻿string username = console.readLine();
+console.WriteLine("привет, ");
+console.WriteLine(username);
