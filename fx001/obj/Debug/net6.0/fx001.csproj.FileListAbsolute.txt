@@ -1,0 +1,15 @@
+D:\Документы\учеба аналитик\repo\examples\fx001\bin\Debug\net6.0\fx001.exe
+D:\Документы\учеба аналитик\repo\examples\fx001\bin\Debug\net6.0\fx001.deps.json
+D:\Документы\учеба аналитик\repo\examples\fx001\bin\Debug\net6.0\fx001.runtimeconfig.json
+D:\Документы\учеба аналитик\repo\examples\fx001\bin\Debug\net6.0\fx001.dll
+D:\Документы\учеба аналитик\repo\examples\fx001\bin\Debug\net6.0\fx001.pdb
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\fx001.csproj.AssemblyReference.cache
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\fx001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\fx001.AssemblyInfoInputs.cache
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\fx001.AssemblyInfo.cs
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\fx001.csproj.CoreCompileInputs.cache
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\fx001.dll
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\refint\fx001.dll
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\fx001.pdb
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\fx001.genruntimeconfig.cache
+D:\Документы\учеба аналитик\repo\examples\fx001\obj\Debug\net6.0\ref\fx001.dll
